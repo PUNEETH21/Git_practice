@@ -1,2 +1,2 @@
 This is the first line in two.txt
-This is the second line
+This is the second line -> Edited by branch2
